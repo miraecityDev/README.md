@@ -9,7 +9,7 @@
 > 주요 5개 정보 유지해주세요
 
 |순번|**과제명**|상태|Stack|
-|:---:|---|:---:|:---:|
+|:---:|---|:---:|:---|
 |1|	[다산컨설턴트 듀얼슬라이드 레일로봇](https://github.com/miraecityDev/Dual-Slide)|🚀|<img src="https://img.shields.io/badge/Arduino-092E20?style=flat-square&logo=Arduino&logoColor=white"/><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Lattepanda-333664?style=flat-square&logo=Lattepanda&logoColor=white"/>
 |2|	[강박스 교량 거더 내부점검 효율성 향상을 위한 독립형 무인로봇 개발](https://github.com/miraecityDev/Standalone_Unmanned_robot)|🚀|<img src="https://img.shields.io/badge/ROS-092E20?style=flat-square&logo=ROS&logoColor=white"/><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 |3|	[5G/LTER 기반 도시철도 터널 진단용 AR/VR 영상모니터링 시스템 개발](https://github.com/miraecityDev/disaster_safety_robot)|✅|<img src="https://img.shields.io/badge/ROS-092E20?style=flat-square&logo=ROS&logoColor=white"/><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>

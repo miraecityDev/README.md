@@ -16,9 +16,7 @@
 
 ## 📍Members
 
-> Now on
-
-> [@thelineover](https://github.com/thelineover) [@hjcho87](https://github.com/hjcho87) [@picshbj](https://github.com/picshbj) [@kuyeon](https://github.com/kuyeon) [@janghyun-bae](https://github.com/janghyun-bae)
+> Now on [@thelineover](https://github.com/thelineover) [@hjcho87](https://github.com/hjcho87) [@picshbj](https://github.com/picshbj) [@kuyeon](https://github.com/kuyeon) [@janghyun-bae](https://github.com/janghyun-bae)
 
 ```other
 우리는 상호존중을 바탕으로 주어진 목표를 달성하기 위해 노력합니다 👍🏻
@@ -52,13 +50,13 @@
 
 - [ ] 🤖 H/W platform
 
-− 멀티쓰레드 필요 없는 경우: STM, ATMEL 등 도입
-− 멀티쓰레드 필요 경우: ESP 등
-− System managed memory 필요 경우: Raspberry, jetson 도입
+   − 멀티쓰레드 필요 없는 경우: STM, ATMEL 등 도입.  
+   − 멀티쓰레드 필요 경우: ESP 등.  
+   − System managed memory 필요 경우: Raspberry, jetson 도입.  
 
 - [ ] 🍦 S/W platform
 
-− 개발 속도를 고려한 IoT 주력 플랫폼 도입
+   − 개발 속도를 고려한 IoT 주력 플랫폼 도입.  
 
 # How to manage a project
 

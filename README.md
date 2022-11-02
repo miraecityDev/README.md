@@ -17,7 +17,7 @@
 
 ## 📍Members
 
-> Now on [@thelineover](https://github.com/thelineover) [@hjcho87](https://github.com/hjcho87) [@picshbj](https://github.com/picshbj) [@kuyeon](https://github.com/kuyeon) [@janghyun-bae](https://github.com/janghyun-bae)
+> Now on [@thelineover](https://github.com/thelineover) [@hjcho87](https://github.com/hjcho87) [@picshbj](https://github.com/picshbj) [@kuyeon](https://github.com/kuyeon) [@janghyun-bae](https://github.com/janghyun-bae) [@sujin29374](https://github.com/sujin29374)
 
 ```other
 우리는 상호존중을 바탕으로 주어진 목표를 달성하기 위해 노력합니다 👍🏻
